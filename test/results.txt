@@ -1,0 +1,140 @@
+Start benchmarking 
+Test with 10 proxies, 100 times 
+
+----------------------------------
+Test set proxy 
+Min: 23, Avg: 28.34, Med: 27.0
+----------------------------------
+Test list proxies 
+Min: 1, Avg: 6.75, Med: 7.0
+----------------------------------
+Test get proxy 
+Min: 2, Avg: 2.5, Med: 2.0
+----------------------------------
+Test ban proxy 
+Min: 1, Avg: 1.77, Med: 1.0
+----------------------------------
+Test unban proxy 
+Min: 1, Avg: 1.24, Med: 1.0
+----------------------------------
+Test get all banned proxies 
+Min: 4, Avg: 4.14, Med: 4.0
+----------------------------------
+Test get banned proxies by netloc 
+Min: 2, Avg: 2.1, Med: 2.0
+----------------------------------
+
+
+
+----------------------------------
+Start benchmarking 
+Test with 100 proxies, 100 times 
+
+----------------------------------
+Test set proxy 
+Min: 44, Avg: 105.91, Med: 86.0
+----------------------------------
+Test list proxies 
+Min: 1, Avg: 2.66, Med: 2.0
+----------------------------------
+Test get proxy 
+Min: 2, Avg: 2.79, Med: 2.0
+----------------------------------
+Test ban proxy 
+Min: 1, Avg: 1.94, Med: 2.0
+----------------------------------
+Test unban proxy 
+Min: 2, Avg: 2.5, Med: 2.0
+----------------------------------
+Test get all banned proxies 
+Min: 3, Avg: 4.47, Med: 4.0
+----------------------------------
+Test get banned proxies by netloc 
+Min: 2, Avg: 2.6, Med: 2.0
+----------------------------------
+
+
+
+----------------------------------
+Start benchmarking 
+Test with 1000 proxies, 100 times 
+
+----------------------------------
+Test set proxy 
+Min: 484, Avg: 628.84, Med: 606.0
+----------------------------------
+Test list proxies 
+Min: 5, Avg: 7.0, Med: 5.0
+----------------------------------
+Test get proxy 
+Min: 2, Avg: 8.43, Med: 5.0
+----------------------------------
+Test ban proxy 
+Min: 2, Avg: 2.2, Med: 2.0
+----------------------------------
+Test unban proxy 
+Min: 2, Avg: 2.07, Med: 2.0
+----------------------------------
+Test get all banned proxies 
+Min: 3, Avg: 4.21, Med: 3.0
+----------------------------------
+Test get banned proxies by netloc 
+Min: 1, Avg: 1.11, Med: 1.0
+----------------------------------
+
+
+
+----------------------------------
+Start benchmarking 
+Test with 10000 proxies, 100 times 
+
+----------------------------------
+Test set proxy 
+Min: 4850, Avg: 5757.1, Med: 5619.0
+----------------------------------
+Test list proxies 
+Min: 36, Avg: 81.03, Med: 59.0
+----------------------------------
+Test get proxy 
+Min: 5, Avg: 41.27, Med: 34.0
+----------------------------------
+Test ban proxy 
+Min: 2, Avg: 2.57, Med: 2.0
+----------------------------------
+Test unban proxy 
+Min: 3, Avg: 4.85, Med: 4.0
+----------------------------------
+Test get all banned proxies 
+Min: 3, Avg: 6.54, Med: 7.0
+----------------------------------
+Test get banned proxies by netloc 
+Min: 2, Avg: 2.4, Med: 2.0
+----------------------------------
+
+
+----------------------------------
+Start benchmarking 
+Test with 100000 proxies, 100 times 
+
+----------------------------------
+Test set proxy 
+Min: 84814, Avg: 97276.07, Med: 94614.5
+----------------------------------
+Test list proxies 
+Min: 360, Avg: 641.36, Med: 494.5
+----------------------------------
+Test get proxy 
+Min: 6, Avg: 279.49, Med: 271.0
+----------------------------------
+Test ban proxy 
+Min: 20, Avg: 20.12, Med: 20.0
+----------------------------------
+Test unban proxy 
+Min: 19, Avg: 19.59, Med: 19.0
+----------------------------------
+Test get all banned proxies 
+Min: 3, Avg: 3.05, Med: 3.0
+----------------------------------
+Test get banned proxies by netloc 
+Min: 1, Avg: 1.05, Med: 1.0
+----------------------------------
